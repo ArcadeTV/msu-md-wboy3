@@ -26,7 +26,7 @@ Compatibility  Works on real hardware with
                Kega Fusion is not working due to an issue with broken DMA when CD support is active in emulation
                (*untested on my end)
 
-SourceROMs:    .bin | .md (CRC: 1801098B)
+SourceROMs:    Wonder Boy III - Monster Lair (Japan, Europe).md (CRC: c24bc5e4)
 
 Date:          2021-02-20
 
